@@ -11,8 +11,8 @@
 From our data set we can see that there were 2,375 total rides.
 - 1,625 were in urban areas 
 - 625 were in suburban areas
-- 125 were in rural areas
-The Chart below represents the percent of the total number of rides that each area represents.<br/>  
+- 125 were in rural areas  
+The Chart below represents the percent of the total number of rides that each area represents.
 ![](analysis/Total_Rides_pc.png) 
 ### Total Fares
 ![](analysis/Total_Fares_pc.png) 
