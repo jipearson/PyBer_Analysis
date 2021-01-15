@@ -6,6 +6,7 @@
 - Summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## City Type Results
+![](analysis/pyber_summary_table.png) 
 
 ### Total Rides
 From our analysis set we find that there were 2,375 total rides completed. 
