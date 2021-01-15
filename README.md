@@ -5,7 +5,7 @@
 - Using Pandas and Matplotlib, create a multiple-line graph that shows the total weekly fares for each city type. 
 - Summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
-## City Type Results
+## Analysis Results
 ![](analysis/pyber_summary_table.png) 
 
 ### Total Rides
@@ -43,4 +43,6 @@ The graph below shows the weekly fares totals by city type during the first 4 mo
 ![](analysis/Pyber_fare_summary.png) 
 <br/>
 
-## Summary
+## Summary and Recommendations
+After reviewing the analysis results we have found several trends. 
+- Although only 5.3% of rides are in rural areas these rides account for nearly 7% of total fares generated. The average rural fare is over $10 higher than in urban ares, simply put riders in rural areas are having to travel further and pay more to get to their destinations.. The high fare does not correlate to high driver counts as only 2.6% of drivers are in rural areas. I reccomend a slight increase in driver pay to incentivize more drivers, this will help us capitalize on high fares. 
