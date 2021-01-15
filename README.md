@@ -6,9 +6,9 @@
 - Summarizes how the data differs by city type and how those differences can be used by decision-makers at PyBer.
 
 ## Results 
-![](analysis/Total_Drivers_Pie.png) 
-![](analysis/Total_Fares_Pie.png) 
-![](analysis/Total_Rides_Pie.png) 
+![](analysis/Total_Drivers_pc.png) 
+![](analysis/Total_Fares_pc.png) 
+![](analysis/Total_Rides_pc.png) 
 ![](analysis/Pyber_fare_summary.png) 
 
 ## Summary
