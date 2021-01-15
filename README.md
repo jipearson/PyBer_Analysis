@@ -15,7 +15,7 @@ From our analysis set we find that there were 2,375 total rides completed.
 
 The Chart below shows the percent of the total number of rides that each city type represents.
 ![](analysis/Total_Rides_pc.png) 
-
+<br/>
 ### Total Drivers
 After summarizing the data we find that there were 2,973 total drivers accross all city types. 
 - 2,405 were in urban areas 
@@ -24,7 +24,7 @@ After summarizing the data we find that there were 2,973 total drivers accross a
 
 The Chart below shows the percent of the total number of drivers for each city type.
 ![](analysis/Total_Drivers_pc.png) 
-
+<br/>
 ### Total/Average Fares
 The fare total generated from all rides was $63,538.68
 - $39,854.38 were in urban areas for an average of $24.53 per ride
@@ -33,8 +33,8 @@ The fare total generated from all rides was $63,538.68
 
 The Chart below shows the percent of the total number of rides that each city type represents.
 ![](analysis/Total_Fares_pc.png) 
-
+<br/>
 ### Fare Trend (January - April)
 ![](analysis/Pyber_fare_summary.png) 
-
+<br/>
 ## Summary
