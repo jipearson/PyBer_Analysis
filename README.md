@@ -49,6 +49,6 @@ After reviewing the analysis results we have found several trends.
 - While 86% of rides and 63% of fares come from urban areas nearly 81% of drivers can be found in urban areas. Because of the high supply of drivers given the demand the average fare per driver is only 42% of those in suburban areas and  less than 30% of those in rural areas. To find a better equilibrium we should do one of, or a combination of the following. 
 <br/>
 Based on these trends we suggest the following. (2 and 3 can work independently or in tandem) <br/>
-1. Increase in rural driver pay to incentivize more drivers, this will help us capitalize on high fares. 
-2. Decrease the fare for the rider to increase the demand and meet the driver supply.
+1. Increase in rural driver pay to incentivize more drivers, this will help us capitalize on high fares. <br/>
+2. Decrease the fare for the rider to increase the demand and meet the driver supply. <br/>
 3. Slightly decrease the portion of the fare that goes to the driver. This will decrease the driver supply but will not impact the demand for rides, the company's per ride margins will increase. 
