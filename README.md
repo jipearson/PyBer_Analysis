@@ -35,10 +35,11 @@ After summarizing the data we find that there were 2,973 total drivers accross a
 
 The Chart below shows the percent of the total number of drivers for each city type.
 ![](analysis/Total_Drivers_pc.png) 
-
 <br/>
+
 ### Fare Trend (January - April)
 The graph below shows the weekly fares totals by city type during the first 4 months of 2019. 
 ![](analysis/Pyber_fare_summary.png) 
 <br/>
+
 ## Summary
